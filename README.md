@@ -1,16 +1,18 @@
 # Hi, I'm Emmanuel Hesry 👋
 
-Full-stack web developer with 20+ years of professional experience, currently focusing on modern **Java / Spring Boot** and **Angular** development.
+Full-stack web developer with 20+ years of professional experience.
 
-🔄 Returning to the Java ecosystem with a modern stack, after several years building web solutions in PHP.
+🟢 Main focus: Full-stack development with modern **Java / Spring Boot** and **Angular**.
+
+🔄 Returning to the Java ecosystem with a modern stack after several years building web solutions in PHP.
 
 ## 🚀 Current Focus
 
 I'm currently refreshing and showcasing my skills through concrete, production-oriented projects:
 
-- Modern Java (17–21), clean code, testing
-- Spring Boot REST APIs (security, CI/CD, Docker)
-- Angular standalone frontend (Material, i18n)
+- Modern Java (21), clean code, testing
+- Spring Boot 3 REST APIs (security, CI/CD, Docker)
+- Angular 20 standalone frontend (Material, i18n)
 
 ## 📌 Featured Projects
 
@@ -32,7 +34,7 @@ Java · Spring Boot · Angular · REST · PostgreSQL · Docker · GitHub Actions
 
 ## 📍 Location
 
-Based near Nantes (France) — open to full-stack Java opportunities.
+Based near Nantes (France) — open to full-stack opportunities, with a strong focus on Java/Spring Boot & Angular.
 
 ---
 Thanks for stopping by!
