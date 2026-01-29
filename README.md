@@ -2,6 +2,8 @@
 
 Full-stack web developer with 20+ years of professional experience, currently focusing on modern **Java / Spring Boot** and **Angular** development.
 
+🔄 Returning to the Java ecosystem with a modern stack after several years in PHP.
+
 ## 🚀 Current Focus
 
 I'm currently refreshing and showcasing my skills through concrete, production-oriented projects:
