@@ -50,10 +50,10 @@ PHP · Laravel 12 · WordPress
 Angular 20/21 (standalone) · TypeScript · Angular Material · i18n
 
 **Testing**<br>
-JUnit · Karma/Jasmine · Vitest (upcoming)
+JUnit · Karma/Jasmine · Vitest
 
 **Data & Infra**<br>
-PostgreSQL · MariaDB · Docker · Linux · Vercel · Railway · o2switch
+PostgreSQL · MariaDB · Docker · Linux · o2switch · OVHCloud
 
 **Tooling & CI/CD**<br>
 Git · GitHub Actions · Maven · npm · composer
