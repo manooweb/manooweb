@@ -47,10 +47,10 @@ Java 21 · Spring Boot 3 · REST APIs · Security · JPA/Hibernate<br>
 PHP · Laravel 12 · WordPress
 
 **Frontend**<br>
-Angular 20/21 (standalone) · TypeScript · Angular Material · i18n
+Angular 20/21 (standalone) · TypeScript · Angular Material · i18n · React
 
 **Testing**<br>
-JUnit · Karma/Jasmine · Vitest
+JUnit · Karma/Jasmine · Vitest · PHPUnit · Playwright
 
 **Data & Infra**<br>
 PostgreSQL · MariaDB · Docker · Linux · o2switch · OVHCloud
