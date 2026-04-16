@@ -55,6 +55,9 @@ JUnit · Karma/Jasmine · Vitest · PHPUnit · Playwright
 **Data & Infra**<br>
 PostgreSQL · MariaDB · Docker · Linux · o2switch · OVHCloud
 
+**QA**<br>
+Prettier · ESLint · Spotless · PHPCS · SonarQube · PHPStan
+
 **Tooling & CI/CD**<br>
 Git · GitHub Actions · Maven · npm · composer
 
