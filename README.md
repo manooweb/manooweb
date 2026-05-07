@@ -2,77 +2,80 @@
 
 Full-stack web developer with 20+ years of professional experience.
 
-🟢 Main focus: Full-stack development with modern **Java / Spring Boot** and **Angular**.<br>
-🔄 Returning to the Java ecosystem with a modern stack after several years building web solutions in PHP.
+I am currently looking for a stable and collaborative work environment, where people move forward together: learning, sharing knowledge, challenging ideas, and building for the long term.
 
-## 🚀 Current Focus
+Based near Nantes, France — available immediately.
 
-I'm currently refreshing and showcasing my skills through concrete, production-oriented projects:
+## 🎯 Positioning
 
-- Modern Java (21), clean code, testing
-- Spring Boot 3 REST APIs (security, CI/CD, Docker)
-- Angular 20 standalone frontend (Material, i18n)
+- Current focus: **Java 21, Spring Boot 3, Angular 20/21**
+- Strong web development background, with long-term experience in **PHP, Laravel and WordPress**
+- Interested in maintainable software: REST APIs, security, testing, CI/CD, Docker, documentation, and deployment
 
-## 📌 Featured Projects
+## 🚀 Featured Recent Project
 
-- **Spring Boot REST API Demo**<br>
-  JWT auth, PostgreSQL, CI/CD, Angular frontend<br>
-  👉 https://github.com/manooweb/springboot-rest-api-demo
+### Spring Boot REST API Demo
+
+Full-stack project built to demonstrate a modern Java / Angular stack, with practical attention to quality, security, and deployment.
+
+👉 Repository: https://github.com/manooweb/springboot-rest-api-demo<br>
+🌐 Demo: https://projects.manooweb.fr<br>
+🔌 API: https://projects-api.manooweb.fr<br>
+📘 Swagger UI: https://projects-api.manooweb.fr/swagger-ui/index.html
+
+Concrete technical points:
+
+- **Spring Boot 3.5 / Java 21** backend: REST API, Spring Security, JPA/Hibernate, Flyway, PostgreSQL
+- **JWT authentication in HttpOnly / Secure / SameSite=Strict cookies**, with CSRF protection for browser-based requests
+- **Angular 20 standalone** frontend with Angular Material, routing, forms, i18n, and session handling
+- Backend tests with JUnit/Spring Security, frontend tests with Karma/Jasmine, API E2E scenarios with Bruno
+- Automated quality workflow: GitHub Actions, Spotless, ESLint, Prettier, JaCoCo, SonarCloud
+- Docker deployment on an OVHcloud VPS with Traefik, Let's Encrypt HTTPS, Nginx, PostgreSQL, and Flyway migrations
+- Additional documented deployments on AWS, GCP, and Azure
+
+## 📌 Other Projects
 
 - **Java Foundations**<br>
-  Modern Java fundamentals, Maven, testing<br>
-  👉 https://github.com/manooweb/java-foundations
+  Structured practice around modern Java, Maven, and testing.<br>
+  https://github.com/manooweb/java-foundations
 
 - **Java CLI Data Tool**<br>
-  Lightweight CLI tool using Picocli + Jackson<br>
-  👉 https://github.com/manooweb/java-cli-data-tool
+  Lightweight CLI tool using Picocli and Jackson.<br>
+  https://github.com/manooweb/java-cli-data-tool
 
-## 🧩 Selected Practices & Workflows
+## 🧩 Real-World Practices
 
-### WordPress – Git-based maintenance (production)
+I also maintain my personal WordPress site with a Git-based workflow:
 
-I maintain my own WordPress site using a Git-based workflow:
 - no FTP
-- no updates directly in production
-- local → Git → production only
+- no direct updates in production
+- local -> Git -> production
 
-📘 Detailed article (French, real-world setup used in production):<br>
-👉 **Maintaining WordPress with Git between local and production**<br>
+Detailed article (French 🇫🇷):<br>
 https://manooweb.fr/maintenir-wordpress-avec-git-entre-local-et-production/
 
 ## 🛠️ Tech Stack
 
 **Backend**<br>
-Java 21 · Spring Boot 3 · REST APIs · Security · JPA/Hibernate<br>
-PHP · Laravel 12 · WordPress
+Java 21 · Spring Boot 3 · REST APIs · Spring Security · JPA/Hibernate · PHP · Laravel 12 · WordPress
 
 **Frontend**<br>
-Angular 20/21 (standalone) · TypeScript · Angular Material · i18n · React
+Angular 20/21 · TypeScript · Angular Material · i18n · React
 
-**Testing**<br>
-JUnit · Karma/Jasmine · Vitest · PHPUnit · Playwright
+**Data & infra**<br>
+PostgreSQL · MariaDB · Docker · Linux · OVHcloud · o2switch
 
-**Data & Infra**<br>
-PostgreSQL · MariaDB · Docker · Linux · o2switch · OVHCloud
+**Quality & CI/CD**<br>
+JUnit · Karma/Jasmine · Bruno · Playwright · GitHub Actions · Maven · npm · Composer · SonarCloud · PHPStan
 
-**QA**<br>
-Prettier · ESLint · Spotless · PHPCS · SonarQube · PHPStan
+## 🏃 Endurance Running
 
-**Tooling & CI/CD**<br>
-Git · GitHub Actions · Maven · npm · composer
+Endurance running is part of my personal balance: consistency, long-term progress, effort management, and writing about the experience.
 
-## 🏃 Outside Tech
+- https://manooweb.fr/courir-10-km-par-jour/
+- https://manooweb.fr/ultra-marin-2025-grand-raid-assistant-vainqueur/
 
-Endurance running is a key part of my life and mindset.
-I regularly document long-term effort, discipline, and personal challenges through writing.
+## 📫 Contact
 
-Selected articles (French):
-- 👉 https://manooweb.fr/courir-10-km-par-jour/
-- 👉 https://manooweb.fr/ultra-marin-2025-grand-raid-assistant-vainqueur/
-
-## 📍 Location
-
-Based near Nantes (France) — open to full-stack opportunities, with a strong focus on Java/Spring Boot & Angular.
-
----
-Thanks for stopping by!
+Website: https://manooweb.fr<br>
+LinkedIn: https://www.linkedin.com/in/emmanuelhesry
