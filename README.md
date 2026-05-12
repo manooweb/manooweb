@@ -31,7 +31,7 @@ Concrete technical points:
 - Backend tests with JUnit/Spring Security, frontend tests with Karma/Jasmine, API E2E scenarios with Bruno
 - Automated quality workflow: GitHub Actions, Spotless, ESLint, Prettier, JaCoCo, SonarCloud
 - Docker deployment on an OVHcloud VPS with Traefik, Let's Encrypt HTTPS, Nginx, PostgreSQL, and Flyway migrations
-- Additional documented deployments on AWS, GCP, and Azure
+- Additional documented deployments on GCP, AWS and Azure
 
 ## 📌 Other Projects
 
