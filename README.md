@@ -8,7 +8,7 @@ Based near Nantes, France — available immediately.
 
 ## 🎯 Positioning
 
-- Current focus: **Java 21, Spring Boot 3, Angular 20/21**
+- Current focus: **Java 25, Spring Boot 3, Angular 20/21**
 - Strong web development background, with long-term experience in **PHP, Laravel and WordPress**
 - Interested in maintainable software: REST APIs, security, testing, CI/CD, Docker, documentation, and deployment
 
@@ -25,7 +25,7 @@ Full-stack project built to demonstrate a modern Java / Angular stack, with prac
 
 Concrete technical points:
 
-- **Spring Boot 3.5 / Java 21** backend: REST API, Spring Security, JPA/Hibernate, Flyway, PostgreSQL
+- **Spring Boot 3.5 / Java 25** backend: REST API, Spring Security, JPA/Hibernate, Flyway, PostgreSQL
 - **JWT authentication in HttpOnly / Secure / SameSite=Strict cookies**, with CSRF protection for browser-based requests
 - **Angular 20 standalone** frontend with Angular Material, routing, forms, i18n, and session handling
 - Backend tests with JUnit/Spring Security, frontend tests with Karma/Jasmine, API E2E scenarios with Bruno
@@ -57,7 +57,7 @@ https://manooweb.fr/maintenir-wordpress-avec-git-entre-local-et-production/
 ## 🛠️ Tech Stack
 
 **Backend**<br>
-Java 21 · Spring Boot 3 · REST APIs · Spring Security · JPA/Hibernate · PHP · Laravel 12 · WordPress
+Java 25 · Spring Boot 3 · REST APIs · Spring Security · JPA/Hibernate · PHP · Laravel 12 · WordPress
 
 **Frontend**<br>
 Angular 20/21 · TypeScript · Angular Material · i18n · React
