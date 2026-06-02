@@ -43,15 +43,19 @@ Concrete technical points:
   Lightweight CLI tool using Picocli and Jackson.<br>
   https://github.com/manooweb/java-cli-data-tool
 
-## 🧩 Real-World Practices
+## ✍️ Technical Writing (French 🇫🇷)
 
-I also maintain my personal WordPress site with a Git-based workflow:
+I document practical maintenance and migration work around my projects:
 
-- no FTP
-- no direct updates in production
-- local -> Git -> production
+- **Migrating a Spring Boot demo app from Java 21 to Java 25**<br>
+  https://manooweb.fr/migration-java-21-java-25-spring-boot/
 
-Detailed article (French 🇫🇷):<br>
+
+- **Upcoming:** migration to Spring Boot 4
+
+- **Upcoming:** migration from Angular 20 to Angular 21
+
+I also wrote about maintaining my WordPress site with a Git-based workflow, without FTP or direct production updates:<br>
 https://manooweb.fr/maintenir-wordpress-avec-git-entre-local-et-production/
 
 ## 🛠️ Tech Stack
